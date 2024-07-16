@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1721123417,,"wq"
+|2,0,1721124854,,"wq"
 
 # Search String History (newest to oldest):
 ? @$
@@ -30,34 +30,112 @@ $
 # Registers:
 
 # File marks:
-'0  1  0  ~/shellscripts/task1.sh
-|4,48,1,0,1721123417,"~/shellscripts/task1.sh"
-'1  1  10  ~/shellscripts/task.sh
-|4,49,1,10,1721123404,"~/shellscripts/task.sh"
-'2  5  12  ~/shellscripts/agerules.sh
-|4,50,5,12,1721123247,"~/shellscripts/agerules.sh"
-'3  3  26  ~/shellscripts/agerules.sh
-|4,51,3,26,1721123132,"~/shellscripts/agerules.sh"
-'4  3  26  ~/shellscripts/agerules.sh
-|4,52,3,26,1721123132,"~/shellscripts/agerules.sh"
-'5  2  26  ~/shellscripts/agerules.sh
-|4,53,2,26,1721123089,"~/shellscripts/agerules.sh"
-'6  3  0  ~/shellscripts/agerules.sh
-|4,54,3,0,1721123089,"~/shellscripts/agerules.sh"
-'7  2  26  ~/shellscripts/agerules.sh
-|4,55,2,26,1721123089,"~/shellscripts/agerules.sh"
-'8  3  0  ~/shellscripts/agerules.sh
-|4,56,3,0,1721123089,"~/shellscripts/agerules.sh"
-'9  14  0  ~/shellscripts/agerules.sh
-|4,57,14,0,1721123039,"~/shellscripts/agerules.sh"
+'0  13  19  ~/shellscripts/agerules.sh
+|4,48,13,19,1721124854,"~/shellscripts/agerules.sh"
+'1  12  21  ~/shellscripts/vowels.sh
+|4,49,12,21,1721124723,"~/shellscripts/vowels.sh"
+'2  17  36  ~/shellscripts/task.sh
+|4,50,17,36,1721124505,"~/shellscripts/task.sh"
+'3  1  0  ~/shellscripts/task1.sh
+|4,51,1,0,1721123417,"~/shellscripts/task1.sh"
+'4  1  10  ~/shellscripts/task.sh
+|4,52,1,10,1721123404,"~/shellscripts/task.sh"
+'5  1  10  ~/shellscripts/task.sh
+|4,53,1,10,1721123404,"~/shellscripts/task.sh"
+'6  5  12  ~/shellscripts/agerules.sh
+|4,54,5,12,1721123247,"~/shellscripts/agerules.sh"
+'7  5  12  ~/shellscripts/agerules.sh
+|4,55,5,12,1721123247,"~/shellscripts/agerules.sh"
+'8  3  26  ~/shellscripts/agerules.sh
+|4,56,3,26,1721123132,"~/shellscripts/agerules.sh"
+'9  3  26  ~/shellscripts/agerules.sh
+|4,57,3,26,1721123132,"~/shellscripts/agerules.sh"
 
 # Jumplist (newest first):
+-'  13  19  ~/shellscripts/agerules.sh
+|4,39,13,19,1721124854,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721124810,"~/shellscripts/agerules.sh"
+-'  12  21  ~/shellscripts/vowels.sh
+|4,39,12,21,1721124723,"~/shellscripts/vowels.sh"
+-'  12  21  ~/shellscripts/vowels.sh
+|4,39,12,21,1721124723,"~/shellscripts/vowels.sh"
+-'  16  0  ~/shellscripts/vowels.sh
+|4,39,16,0,1721124572,"~/shellscripts/vowels.sh"
+-'  16  0  ~/shellscripts/vowels.sh
+|4,39,16,0,1721124572,"~/shellscripts/vowels.sh"
+-'  17  36  ~/shellscripts/task.sh
+|4,39,17,36,1721124505,"~/shellscripts/task.sh"
+-'  17  36  ~/shellscripts/task.sh
+|4,39,17,36,1721124505,"~/shellscripts/task.sh"
+-'  17  36  ~/shellscripts/task.sh
+|4,39,17,36,1721124505,"~/shellscripts/task.sh"
+-'  17  36  ~/shellscripts/task.sh
+|4,39,17,36,1721124505,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721124236,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721124236,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721124236,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721124236,"~/shellscripts/task.sh"
+-'  1  0  ~/shellscripts/task1.sh
+|4,39,1,0,1721123417,"~/shellscripts/task1.sh"
+-'  1  0  ~/shellscripts/task1.sh
+|4,39,1,0,1721123417,"~/shellscripts/task1.sh"
+-'  1  0  ~/shellscripts/task1.sh
+|4,39,1,0,1721123417,"~/shellscripts/task1.sh"
+-'  1  0  ~/shellscripts/task1.sh
+|4,39,1,0,1721123417,"~/shellscripts/task1.sh"
+-'  1  0  ~/shellscripts/task1.sh
+|4,39,1,0,1721123417,"~/shellscripts/task1.sh"
+-'  1  0  ~/shellscripts/task1.sh
+|4,39,1,0,1721123417,"~/shellscripts/task1.sh"
+-'  1  0  ~/shellscripts/task1.sh
+|4,39,1,0,1721123417,"~/shellscripts/task1.sh"
 -'  1  0  ~/shellscripts/task1.sh
 |4,39,1,0,1721123417,"~/shellscripts/task1.sh"
 -'  1  10  ~/shellscripts/task.sh
 |4,39,1,10,1721123404,"~/shellscripts/task.sh"
 -'  1  10  ~/shellscripts/task.sh
 |4,39,1,10,1721123404,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721123404,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721123404,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721123404,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721123404,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721123404,"~/shellscripts/task.sh"
+-'  1  10  ~/shellscripts/task.sh
+|4,39,1,10,1721123404,"~/shellscripts/task.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
+-'  5  12  ~/shellscripts/agerules.sh
+|4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
 -'  5  12  ~/shellscripts/agerules.sh
 |4,39,5,12,1721123247,"~/shellscripts/agerules.sh"
 -'  5  12  ~/shellscripts/agerules.sh
@@ -74,6 +152,56 @@ $
 |4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
 -'  3  26  ~/shellscripts/agerules.sh
 |4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123156,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
+-'  3  26  ~/shellscripts/agerules.sh
+|4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
 -'  3  26  ~/shellscripts/agerules.sh
 |4,39,3,26,1721123132,"~/shellscripts/agerules.sh"
 -'  3  26  ~/shellscripts/agerules.sh
@@ -98,173 +226,60 @@ $
 |4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
 -'  2  26  ~/shellscripts/agerules.sh
 |4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
--'  3  0  ~/shellscripts/agerules.sh
-|4,39,3,0,1721123089,"~/shellscripts/agerules.sh"
--'  3  0  ~/shellscripts/agerules.sh
-|4,39,3,0,1721123089,"~/shellscripts/agerules.sh"
--'  3  0  ~/shellscripts/agerules.sh
-|4,39,3,0,1721123089,"~/shellscripts/agerules.sh"
--'  3  0  ~/shellscripts/agerules.sh
-|4,39,3,0,1721123089,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123071,"~/shellscripts/agerules.sh"
--'  13  0  ~/shellscripts/agerules.sh
-|4,39,13,0,1721123071,"~/shellscripts/agerules.sh"
--'  13  0  ~/shellscripts/agerules.sh
-|4,39,13,0,1721123071,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123071,"~/shellscripts/agerules.sh"
--'  13  0  ~/shellscripts/agerules.sh
-|4,39,13,0,1721123071,"~/shellscripts/agerules.sh"
--'  13  0  ~/shellscripts/agerules.sh
-|4,39,13,0,1721123071,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123071,"~/shellscripts/agerules.sh"
--'  13  0  ~/shellscripts/agerules.sh
-|4,39,13,0,1721123071,"~/shellscripts/agerules.sh"
--'  13  0  ~/shellscripts/agerules.sh
-|4,39,13,0,1721123071,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123071,"~/shellscripts/agerules.sh"
--'  13  0  ~/shellscripts/agerules.sh
-|4,39,13,0,1721123071,"~/shellscripts/agerules.sh"
--'  13  0  ~/shellscripts/agerules.sh
-|4,39,13,0,1721123071,"~/shellscripts/agerules.sh"
--'  15  0  ~/shellscripts/agerules.sh
-|4,39,15,0,1721123039,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123039,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123039,"~/shellscripts/agerules.sh"
--'  15  0  ~/shellscripts/agerules.sh
-|4,39,15,0,1721123039,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123039,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123039,"~/shellscripts/agerules.sh"
--'  15  0  ~/shellscripts/agerules.sh
-|4,39,15,0,1721123039,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123039,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123039,"~/shellscripts/agerules.sh"
--'  15  0  ~/shellscripts/agerules.sh
-|4,39,15,0,1721123039,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123039,"~/shellscripts/agerules.sh"
--'  14  0  ~/shellscripts/agerules.sh
-|4,39,14,0,1721123039,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  1  0  ~/shellscripts/agerules.sh
-|4,39,1,0,1721122806,"~/shellscripts/agerules.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
--'  12  0  ~/shellscripts/vowels.sh
-|4,39,12,0,1721122691,"~/shellscripts/vowels.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
+-'  2  26  ~/shellscripts/agerules.sh
+|4,39,2,26,1721123098,"~/shellscripts/agerules.sh"
 
 # History of marks within files (newest to oldest):
 
-> ~/shellscripts/task1.sh
-	*	1721123415	0
-	"	1	0
-	^	1	0
+> ~/shellscripts/agerules.sh
+	*	1721124852	0
+	"	13	19
+	^	13	20
+	.	13	19
+	+	16	2
+	+	5	0
+	+	3	28
+	+	5	12
+	+	13	19
+
+> ~/shellscripts/vowels.sh
+	*	1721124722	0
+	"	12	21
+	^	12	22
+	.	12	21
+	+	15	2
+	+	16	0
+	+	12	21
 
 > ~/shellscripts/task.sh
-	*	1721123402	0
-	"	1	10
-	^	1	11
-	.	7	29
+	*	1721124503	0
+	"	17	36
+	^	17	37
+	.	17	36
 	+	2	32
 	+	1	11
 	+	2	0
@@ -292,26 +307,18 @@ $
 	+	2	317
 	+	2	436
 	+	2	437
-	+	14	2
-	+	6	29
-	+	7	29
+	+	20	2
+	+	9	29
+	+	10	29
+	+	7	24
+	+	6	8
+	+	7	26
+	+	17	36
 
-> ~/shellscripts/agerules.sh
-	*	1721123244	0
-	"	5	12
-	^	5	13
-	.	5	12
-	+	13	2
-	+	5	0
-	+	3	28
-	+	5	12
-
-> ~/shellscripts/vowels.sh
-	*	1721122689	0
-	"	12	0
-	^	12	0
-	.	11	2
-	+	11	2
+> ~/shellscripts/task1.sh
+	*	1721123415	0
+	"	1	0
+	^	1	0
 
 > ~/task.sh/task.sh
 	*	1720710946	0
